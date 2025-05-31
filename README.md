@@ -1,4 +1,4 @@
-# HTML Image Gallery Parser
+# VKMessage Image Parser
 
 A Python tool for extracting image links from HTML files and generating organized galleries grouped by date. Particularly useful for processing HTML exports from messaging applications or chat archives.
 
