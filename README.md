@@ -15,7 +15,7 @@ A Python tool for extracting image links from HTML files and generating organize
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.10 or higher
 - pip package manager
 
 ### Install Dependencies
