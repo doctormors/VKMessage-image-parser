@@ -170,32 +170,9 @@ python image_gallery_parser.py -i ./html_files --verbose
 ├── requirements.txt         # Dependencies
 ├── README.md               # Documentation
 ├── .gitignore             # Git ignore rules
-└── tests/                 # Unit tests (optional)
 ```
-
-### Running Tests
-
-```bash
-python -m pytest tests/
-```
-
-### Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Changelog
-
-### v1.0.0
-- Initial release
-- Basic HTML parsing and gallery generation
-- Russian date format support
-- Multiple encoding support
-- Responsive gallery layout
